@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">list_one</string>
+    <string name="question_1">Questão 1</string>
+    <string name="description_title_txt_question_one">Calcular o aumento que será dado a um funcionário, obtendo do usuário as
+seguintes informações: salário atual e a porcentagem de aumento.</string>
+
+    <string name="question_2">Questão 2</string>
+    <string name="description_title_txt_question_two">Calcular o volume de uma caixa.</string>
+
+    <string name="question_3">Questão 3</string>
+    <string name="description_title_txt_question_three">Calcular a idade de uma pessoa, tendo em vista que ela irá digitar o ano do
+seu nascimento.</string>
+
+    <string name="question_4">Questão 4</string>
+    <string name="description_title_txt_question_four">Calcular o consumo por litro de um carro, sendo que será informada a
+quantidade de quilômetros percorrido e a quantidade de litros abastecido.</string>
+
+    <string name="question_5">Questão 5</string>
+    <string name="description_title_txt_question_five">Calcular a média final de um aluno com base nas suas 4 notas bimestrais</string>
+
+    <string name="question_7">Questão 7</string>
+    <string name="description_title_txt_question_seven">Calcular e apresentar o volume de uma lata de óleo cilíndrica, a partir da leitura
+do raio da base e da altura.</string>
+    <string name="thunder_text">Informe o raio</string>
+    <string name="height_text">Informe a altura</string>
+
+    <string name="question_6">Questão 6</string>
+
+    <string name="description_title_txt">Ler uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.</string>
+    <string name="edit_txt_title">Digite a temperatura em Celsios</string>
+    <string name="convert_button_title">Converter em Fahrenheit</string>
+
+    <string name="width_text">Informe a largura</string>
+    <string name="wide_text">Informe o comprimento</string>
+    <string name="deep_text">Informe a altura</string>
+
+    <string name="result_one_text">Informe a nota do 1° bimestre</string>
+    <string name="result_two_text">Informe a nota do 2° bimestre</string>
+    <string name="result_three_text">Informe a nota do 3° bimestre</string>
+    <string name="result_four_text">Informe a nota do 4° bimestre</string>
+
+    <string name="age_text">Informe o ano de nascimento</string>
+
+    <string name="current_salary">Informe o salario atual</string>
+    <string name="porcent_increase">Informe a porcentagem do aumento</string>
+
+    <string name="quantity_kilometer">Informe os kilometros percorridos</string>
+    <string name="quantity_liters">Informe a quantidade de litros abastecidos</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="negative_value">é negativo?</string>
+
+    <string name="aula_6">Aula 6</string>
+</resources>

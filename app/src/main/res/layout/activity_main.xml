@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/background_img"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/exercise_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Lista de Exercícios 1" />
+
+    <TextView
+        android:id="@+id/exercise_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="Desenvolvimento de Aplicativos Móveis" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:minHeight="35dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/question_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_1" />
+    <Button
+        android:id="@+id/question_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_2" />
+    <Button
+        android:id="@+id/question_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_3" />
+    <Button
+        android:id="@+id/question_four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_4" />
+    <Button
+        android:id="@+id/question_five"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_5" />
+    <Button
+        android:id="@+id/question_six"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_6" />
+    <Button
+        android:id="@+id/question_seven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/question_7" />
+</LinearLayout>
